@@ -2,8 +2,8 @@
 
 ## Input
 Read the following project materials:
-- /workspaces/GCAP3226AIagents/Team[X]_[ProjectName]/README.md
-- /workspaces/GCAP3226AIagents/Team[X]_[ProjectName]/Project_Roadmap_Team[X].md
+- /workspaces/GCAP3226AIagents/Team[4]_[SolidWasteCharging]/README.md
+- /workspaces/GCAP3226AIagents/Team[4]_[SolidWasteCharging]/Project_Roadmap_Team[4].md
 - Any relevant analysis files from the team folder
 
 ## Process

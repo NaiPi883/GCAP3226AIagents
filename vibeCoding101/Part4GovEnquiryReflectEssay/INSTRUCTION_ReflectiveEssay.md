@@ -3,8 +3,7 @@
 ## Input
 Read the following materials:
 1. Your drafted government enquiry:
-   - /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/enquiry_draft_letter.md
-   - /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/enquiry_notes.md
+   - /workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/DraftEnquiry
 
 2. Code on Access to Information information (if available):
    - Relevant pages from https://www.access.gov.hk/
@@ -19,23 +18,35 @@ Write Reflective Essay 2 (approximately 200 words, ±20 acceptable) that address
 
 1. **Data Governance Assessment**:
    - What did you learn about Hong Kong government's data transparency?
+   Policy frameworks accessible but detailed operational data requires formal requests
    - Which data is easily accessible vs. requires formal request?
+   Annual reports publicly available; real-time metrics and raw data restricted
    - Your assessment of the government's open data practices
+   Meets basic standards but lacks proactive sharing of machine-readable data
 
 2. **Enquiry Drafting Experience**:
    - Challenges in identifying needed data
+   Translating research questions into specific, obtainable data points
    - Process of crafting professional enquiry
+   Identify gaps → find the relative data → ask for the data which is lacked
    - What you learned about formal government communication
+   Requires clear justification, specific timelines
 
 3. **AI Agent Collaboration**:
    - How the AI agent helped (or didn't help) in this process
+   Provided structure templates and professional phrasing suggestions 
    - Differences between AI assistance here vs. the customized chatbot tutor
+   General guidance vs contextual understanding of specific requirements
    - Skills you developed through this collaboration
+   Data negotiation, bureaucratic communication, and contingency planning
 
 4. **Project Insights**:
    - How potential government data will strengthen your analysis
+   Enable validation of survey findings and support geographical comparisons
    - Backup plans if data request is denied
+   Expand primary data collection, use academic datasets, and international benchmarks
    - Impact on your understanding of data-driven policymaking
+   Recognized that effective policymaking requires both data collection
 
 ### Essay Structure
 - **Introduction** (30-40 words): Context of the assignment
@@ -50,7 +61,7 @@ Write Reflective Essay 2 (approximately 200 words, ±20 acceptable) that address
 
 ## Output
 Create a reflective essay file at:
-`/workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/ReflectiveEssay2_[StudentName].md`
+`/workspaces/GCAP3226AIagents/vibeCoding101/Part4GovEnquiryReflectEssay/ReflectiveEssay2_25200135.md`
 
 ### Submission Requirements
 
